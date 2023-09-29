@@ -1,0 +1,30 @@
+{
+	"Metadata":
+	{
+		"Name": "An Unknown Copy of... An Friend? (WIP)",
+		"Author": "FireNight_97",
+		"Description": "Something has been breaking a kind of thread in Hydrocity Act 1 for some reason, but it looks a bit like... a Spider?.",
+		"URL": "A Future Github",
+		"ModVersion": "1.0",
+		"GameVersion": "22.9.10.0"
+        },
+        "Settings":
+        {
+                "List":
+                [
+                         {
+                               "InternalName": "RSpidMusic",
+                               "DisplayName": "Boss Music",
+                               "Variable": "spider.music",
+                               "Category": "Main Options",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Vanilla Option",
+                                       "1": "An Mecha-Old Friend"
+                               }
+                         }
+
+                ]
+        }
+}
