@@ -1,0 +1,31 @@
+
+global u8 pawter.music
+
+function void Standalone.playAudio(u8 sfxId)
+{
+    u64 soundKey = sfxId
+        
+        if  (global.zone_act != 0x0801) || !(pawter.music)
+        {
+                  base.Standalone.playAudio(sfxId)
+                  return
+        }
+
+    if (sfxId == MUSIC_MAINBOSS)
+        {
+                 if global.zone_act == 0x0801 && pawter.music
+                 {
+                         soundKey = "Mecha_Pawter"
+                 }
+                 else
+                 {
+                         base.Standalone.playAudio(sfxId)
+                 }
+        }
+        else
+        {
+            base.Standalone.playAudio(sfxId)
+        }
+            u8 audioContext = AudioContext.CONTEXT_MUSIC
+            Audio.playAudio(soundKey, audioContext)
+}
