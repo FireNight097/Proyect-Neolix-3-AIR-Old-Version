@@ -1,9 +1,0 @@
-{
-
-        // Title Screen
-	"Mix_Track_1": { "File": "Title Screen - Stages Futures.ogg", "Type": "Jingle", "Name": "A new place, another Adventure" },
-        
-        // Angel Island 1
-        "Mix_track_2_CD": { "File": "AIZ1 Alt 2.ogg", "Type": "Music", "LoopStart": "267291", "Name": "Beautiful Natural Place" }
-
-}
