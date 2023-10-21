@@ -1,0 +1,29 @@
+{
+	"Metadata":
+	{
+		"Name": "SF Title Screen and LBZ 2",
+		"Author": "FireNight_7",
+		"Description": "This is the oldest built of Neolix 3 AIR, is really useless",
+		"URL": "https://sonic3air.org",
+		"ModVersion": "1.0.0.0",
+		"GameVersion": "20.04.26.0"
+        },
+        "Settings":
+        {
+                "List":
+                [
+                        {
+                            "InternalName": "StagesFutures_Titlescreen",
+                            "DisplayName": "Neo Ally TS?",
+                            "Variable": "neo_ally_ts",
+                            "DefaultValue": "1",
+                            "Category": "Title Screen",
+                            "Options":
+                            {
+                                "0": "S3AIR Settings",
+                                "1": "Stages Futures"
+                            }
+                        }
+                ]
+        }
+}

@@ -1,0 +1,43 @@
+{
+	"Metadata":
+	{
+		"Name": "Mecha Pawter (WIP)",
+		"Author": "FireNight097",
+		"UniqueID": "neolix-3-air-pawter",
+		"Description": "Replace the Sandopolis Zone Act 2 Boss with a enemy from another dimension... but diferent.",
+		"URL": "https://github.com/FireNight097/Proyect-Neolix-3-AIR.git",
+		"ModVersion": "1.5",
+		"GameVersion": "22.9.10.0"
+        },
+        "Settings":
+        {
+                "List":
+                [
+                         {
+                               "InternalName": "RivalPawterMusic",
+                               "DisplayName": "Boss Music",
+                               "Variable": "pawter.music",
+                               "Category": "Tweaks",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Vanilla Option",
+                                       "1": "Pawter, The mecha Rival"
+                               }
+                         },
+
+                         {
+                               "InternalName": "RivalPawterknuk",
+                               "DisplayName": "Mecha Rival for Knuckles?",
+                               "Variable": "pawter.knuk",
+                               "Category": "Tweaks",
+                               "DefaultValue": "0",
+                               "Options":
+                               {
+                                       "0": "No",
+                                       "1": "Yes"
+                               }
+                         }
+                ]
+        }
+}
