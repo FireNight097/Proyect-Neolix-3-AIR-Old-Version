@@ -1,0 +1,41 @@
+{
+
+        // Angel Island 1
+        "01_SP_Past": { "File": "AIZ1 Alt 2.ogg", "Type": "Music", "LoopStart": "267291", "Name": "Beautiful Natural Place" },
+        "01_SP_Past_Fast": { "File": "AIZ1 Alt 2 Fast.ogg", "Type": "Music", "LoopStart": "78172", "Name": "Beautiful Natural Place (Fast)" },
+
+        // MGZ 1
+        "05_S4E2": { "File": "MGZ1 Alt 2.ogg", "Type": "Music", "LoopStart": "132128", "Name": "Running through the mysterious ruins" },
+        "05_S4E2_Fast": { "File": "MGZ1 Alt 2 Fast.ogg", "Type": "Music", "LoopStart": "105703", "Name": "Running through the mysterious ruins (Fast)" },
+
+        // MGZ 2
+        "06_lix": { "File": "MGZ 2-Neo.ogg", "Type": "Music", "Name": "Night's Ruins" },
+        "06_lix_Fast": { "File": "MGZ 2-Neo F.ogg", "Type": "Music", "Name": "Night's Ruins (Fast)" },
+
+        // FBZ 2
+        "0a_S4E2": { "File": "FBZ2 Alt 2.ogg", "Type": "Music", "Name": "Danger Battery" },
+        "0a_S4E2_Fast": { "File": "FBZ2 Alt 2 Fast.ogg", "Type": "Music", "Name": "Danger Battery (Fast)" },
+
+        // ICZ 2
+        "0c_lix": { "File": "ICZ 2-Neo.ogg", "Type": "Music", "Name": "Hard Times in Ice" },
+        "0c_lix_Fast": { "File": "ICZ 2-Neo F.ogg", "Type": "Music", "Name": "Hard Times in Ice (Fast)" },
+
+        // SOZ 2
+        "12_lix": { "File": "SOZ 2-Neo.ogg", "Type": "Music", "Name": "Jazzpolis 8-bit" },
+        "12_lix_Fast": { "File": "SOZ 2-Neo F.ogg", "Type": "Music", "Name": "Jazzpolis 8-bit (Fast)" },
+
+        // SSZ
+        "15_lix": { "File": "SSZ-Neo.ogg", "Type": "Music", "LoopStart": "122403", "Name": "Above the Island" },
+        "15_lix_Fast": { "File": "SSZ-Neo F.ogg", "Type": "Music", "Name": "Above the Island (Fast)" },
+
+        // DEZ 1
+        "16_MegaMan": { "File": "DEZ1 Alt 2.ogg", "Type": "Music", "Name": "Ultimate Place" },
+        "16_MegaMan_Fast": { "File": "DEZ1 Alt 2 Fast.ogg", "Type": "Music", "Name": "Ultimate Place (Fast)" },
+
+        // Ending
+        "dc_MegamixK": { "File": "Ending-Neo.ogg", "Type": "Music", "Name": "Farewell to the other world" },
+
+        // SpeedShoes Music
+        "Bike_Beat": { "File": "SpeedS.ogg", "Type": "Music", "Name": "Euro Speedshoes" }
+
+}
