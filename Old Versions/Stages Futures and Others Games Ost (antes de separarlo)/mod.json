@@ -1,0 +1,82 @@
+{
+	"Metadata":
+	{
+		"Name": "Stages Futures Ost (WIP)",
+		"Author": "FireNight_97",
+		"Description": "Old Version of all the mods for Neolix 3 AIR, but only contain the music.",
+		"URL": "https://sonic3air.org",
+		"ModVersion": "1.0",
+		"GameVersion": "22.9.10.0"
+        },
+        "Settings":
+        {
+                "List":
+                [
+                         {
+                               "InternalName": "RSpidMusic",
+                               "DisplayName": "Boss Music",
+                               "Variable": "spider.music",
+                               "Category": "Mecha S-pid",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Vanilla Option",
+                                       "1": "An Mecha-Old Friend"
+                               }
+                         },
+                         
+                         {
+                               "InternalName": "RivalPawterMusic",
+                               "DisplayName": "Boss Music",
+                               "Variable": "pawter.music",
+                               "Category": "Mecha Pawter or Rival",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Vanilla Option",
+                                       "1": "Unexpected Attack"
+                               }
+                         },
+
+                         {
+                               "InternalName": "MGZ2Alt",
+                               "DisplayName": "MGZ Act 2",
+                               "Variable": "mgz2.music",
+                               "Category": "Alt Stage Futures Music",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Vanilla",
+                                       "1": "Night's Ruins"
+                               }
+                         },
+                       
+  
+                         {     
+                               "InternalName": "DEZ1Alt",
+                               "DisplayName": "DEZ Act 1",
+                               "Variable": "dez1.music",
+                               "Category": "Alt Stage Futures Music",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Vanilla",
+                                       "1": "In A Giant Space Ship"
+                               }
+                         },
+                         
+                         {
+                               "InternalName": "TitleScreenAlt",
+                               "DisplayName": "Title Screen",
+                               "Variable": "title.screen",
+                               "Category": "Alt Jingles",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Vanilla Option",
+                                       "1": "A Neo Ally From Another World"
+                               }
+                         }
+                ]
+        }
+}
