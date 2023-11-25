@@ -1,0 +1,140 @@
+{
+	"Metadata":
+	{
+		"Name": "4-Island Mix Cassette",
+		"Author": "FireNight_97",
+		"Description": "Music from the dimension of Neolix",
+		"URL": "A Future Github",
+		"ModVersion": "1.5",
+		"GameVersion": "22.09.10.0"
+        },
+        "Settings":
+        {
+                "List":
+                [
+                         {
+                               "InternalName": "MixTitleScreen",
+                               "DisplayName": "Title Screen BGM",
+                               "Variable": "title.screen",
+                               "Category": "Jingles Mix",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Vanilla Option",
+                                       "1": "A new place, another Adventure"
+                               }
+                         },
+                         
+                         {
+                               "InternalName": "MixAIZAct1",
+                               "DisplayName": "Angel Island Act 1 BGM",
+                               "Variable": "aiz1.setting",
+                               "Category": "Levels Mix",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Original",
+                                       "1": "(insert a Music Name Here)",
+                                       "2": "Bonus - Salad Plain Past"
+                               }
+                         },
+
+                         {
+                               "InternalName": "MixMGZAct1",
+                               "DisplayName": "Marble Garden Act 1 BGM",
+                               "Variable": "mgz1.setting",
+                               "Category": "Levels Mix",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Original",
+                                       "1": "(insert a Music Name Here)",
+                                       "2": "Bonus - Sylvania Castle Act 1"
+                               }
+                         },
+
+                         {
+                               "InternalName": "MixCNZAct2",
+                               "DisplayName": "Carnival Night Act 2 BGM",
+                               "Variable": "cnz2.setting",
+                               "Category": "Levels Mix",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Original",
+                                       "1": "(insert a Music Name Here)",
+                                       "2": "Bonus - White Park Act 2"
+                               }
+                         },
+
+                         {
+                               "InternalName": "MixFBZAct2",
+                               "DisplayName": "Flying Battery Act 2 BGM",
+                               "Variable": "fbz2.setting",
+                               "Category": "Levels Mix",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Original",
+                                       "1": "(insert a Music Name Here)",
+                                       "2": "Bonus - Sky Fortress Act 2"
+                               }
+                         },
+
+                         {
+                               "InternalName": "MixDEZAct1",
+                               "DisplayName": "Death Egg Act 1 BGM",
+                               "Variable": "dez1.setting",
+                               "Category": "Levels Mix",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Original",
+                                       "1": "(insert a Music Name Here)",
+                                       "2": "Bonus - Wily Stage 1"
+                               }
+                         },
+
+                         {
+                               "InternalName": "ALBGMix",
+                               "DisplayName": "Azure Lake BGM",
+                               "Variable": "alz.setting",
+                               "Category": "Competition Mix",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Vanilla",
+                                       "1": "(insert a Music Name Here)",
+                                       "2": "Bonus - Break the Targets"
+                               }
+                         },
+
+                         {
+                               "InternalName": "EMBGMix",
+                               "DisplayName": "Emerald Mine BGM",
+                               "Variable": "emz.setting",
+                               "Category": "Competition Mix",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Vanilla",
+                                       "1": "Euro Bike Battle"
+                               }
+                         },
+
+                         {
+                               "InternalName": "EndingBGM",
+                               "DisplayName": "Ending BGM",
+                               "Variable": "ending.setting",
+                               "Category": "Misc Mix",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Original",
+                                       "1": "(insert a Music Name Here)",
+                                       "2": "Bonus - Megamix Knuckles Ending"
+                               }
+                         }
+                ]
+        }
+}
