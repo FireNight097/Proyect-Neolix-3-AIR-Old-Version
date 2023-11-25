@@ -1,0 +1,8 @@
+{
+       
+        // VS S-pid
+        "Mecha_Spider": { "File": "VS S-pid (S3AIR).ogg", "Type": "Music", "Name": "An Mecha-Enemy from another dimension" },
+
+        "Mecha_8-bit": { "File": "VS S-pid (Area Zero Battle 8-bit).ogg", "Type": "Music", "LoopStart": "64937", "Name": "Battle! Area Zero- Branflakes" }
+
+}
